@@ -1,0 +1,16 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local data and generated files
+data/*.db
+*.log
+.streamlit/secrets.toml
