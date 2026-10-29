@@ -1,0 +1,4 @@
+company,contact_name,contact_email,message,requirements,budget,timeline
+Northstar Logistics,Aarav,aarav@example.com,"We need an AI assistant to answer questions from internal SOP documents and would like a demo this week.","RAG chatbot; internal document search",5000,"This week"
+BrightPath Retail,Maya,maya@example.com,"We are exploring automation for customer support but are still defining our requirements.","Customer support automation","","Next quarter"
+Acme Services,Jordan,jordan@example.com,"Please share pricing for an AI workflow that summarizes sales calls and drafts follow-up emails. We hope to start within 30 days.","Call summarization; CRM follow-up",2500,"Within 30 days"
